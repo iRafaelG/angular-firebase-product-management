@@ -1,6 +1,10 @@
-# AngularFirestore
+# Angular Firestore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
+
+A simple CRUD system for product management.
+
+![Angular CRUD](/src/assets/images/angular-firestore.png)
 
 ## Development server
 
